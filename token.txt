@@ -1,0 +1,1 @@
+{"webapi_host":"https:\/\/community.steam-api.com\/","webapi_host_secure":"https:\/\/community.steam-api.com\/","token":"8b25772772376d0b0d9ebaffd195b8e7","steamid":"76561198081079900","persona_name":"Gamikace \u2726","success":1}
